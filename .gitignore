@@ -1,0 +1,15 @@
+# Large dataset files (exceeds GitHub 100MB limit)
+*.csv
+data/*.csv
+PS_*.csv
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+.venv/
+env/
